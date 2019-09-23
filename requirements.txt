@@ -1,0 +1,20 @@
+rasa
+rasa-x --extra-index-url https://pypi.rasa.com/simple
+flask
+boto3
+face_recognition
+redis
+pymongo
+struct
+pyaudio
+playsound
+nanpy
+socketio
+python-socketio
+flask-socketio
+tensorflow
+SpeechRecognition
+opencv-python
+numpy
+PIL
+keras
